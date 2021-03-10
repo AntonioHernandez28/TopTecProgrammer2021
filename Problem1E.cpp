@@ -47,17 +47,7 @@ void write(T&&... args) { //rvalue reference is new to C++
     ((cout << args << " "), ...);
 }
 
-int bPow(int a, int b){
-    int res = 1;
-    while(b) {
-        if (b & 1ll) {
-            res = 1ll * res * a % MOD;
-        }
-        b >>= 1;
-        a = 1ll * a * a % MOD;
-    }
-    return res;
-}
+
  
  
 void solve() {
