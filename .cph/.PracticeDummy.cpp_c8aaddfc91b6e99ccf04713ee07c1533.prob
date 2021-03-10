@@ -1,0 +1,1 @@
+{"name":"Local: PracticeDummy","url":"/Users/Antonio/Desktop/TopTecProgrammer2021/PracticeDummy.cpp","tests":[{"id":1615365784444,"input":"3\n4\n1 2 3 4\n3\n7 4 -1\n3\n5 -5 5","output":"YES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/Antonio/Desktop/TopTecProgrammer2021/PracticeDummy.cpp","group":"local","local":true}
