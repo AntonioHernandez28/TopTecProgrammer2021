@@ -1,0 +1,1 @@
+{"name":"Local: Problem1G","url":"/Users/Antonio/Desktop/TopTecProgrammer2021/Problem1G.cpp","tests":[{"id":1615446521117,"input":"5\n1\n4041\n4042\n8081\n8079","output":"NO\nYES\nYES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/Antonio/Desktop/TopTecProgrammer2021/Problem1G.cpp","group":"local","local":true}
